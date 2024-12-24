@@ -5,3 +5,5 @@
 ##### h5
 ###### h6
 ####### h7 (should not work)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
